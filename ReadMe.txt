@@ -11,3 +11,14 @@ Page 30 = 'SelectionSort'
 Page 47 = 'RocksGame'
 Page 54 Problem 2.1 = 'MinMaxValue'
 Page 54 Problem 2.4 = 'MissingNumber'
+Page 88 = 'PartialDigest_BF' (BRUTE FORCE algorithm)
+	        'PartialDigest'
+Page 96 = 'Score'
+Page 98 = 'TotalDistance'
+Page 103 = 'NextLeaf'
+	         'AllLeaves'
+Page 107 = 'NextVertex'
+Page 108 = 'Bypass'
+Page 109 = 'MotifSearch_BF' (BRUTE FORCE algorithm)
+Page 112 = 'MedianSearch_BF' (BRUTE FORCE algorithm)
+
