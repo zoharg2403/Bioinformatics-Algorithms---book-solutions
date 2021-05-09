@@ -21,4 +21,5 @@ Page 107 = 'NextVertex'
 Page 108 = 'Bypass'
 Page 109 = 'MotifSearch_BF' (BRUTE FORCE algorithm)
 Page 112 = 'MedianSearch_BF' (BRUTE FORCE algorithm)
+Page 135 Problem 4.1 = 'Xmultiset'
 
